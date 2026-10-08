@@ -1,5 +1,6 @@
+# Project updated
 def main():
- print("Hello fromconflict 1")
+ print("Hello from Conflict 2")
 
 if __name__ == "__main__":
  main()
