@@ -1,5 +1,5 @@
 def main():
- print("Hello, DevOps Intensives!")
+ print("Hello from Conflict 2")
 
 if __name__ == "__main__":
  main()
